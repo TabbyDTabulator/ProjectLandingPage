@@ -1,0 +1,77 @@
+.preheader {
+    background-color: #1F2937;    
+}
+.header-logo{
+    font-size: 24px;
+    color: #F9FaF8;
+}
+
+ul {
+    list-style-type: none;
+    font-size: 18px;       
+}
+
+.maintext {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+    margin-bottom: 0px;
+}
+
+.secontext {
+    font-size: 18px;
+    color: #E5E7EB;
+    margin-top: 0px;
+}
+
+.button {
+    background-color: #3882F6;
+    color: white;
+    border: 1px solid #3882F6;
+    border-radius: 5px;
+}
+
+.info img{
+    border: 5px solid #3882F6;
+    border-radius: 10px;
+}
+.postheader {
+    background-color: #1F2937;
+}
+
+.infotext {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+}
+.quote {
+    background-color: #E5E7EB;
+}
+
+.quotetext {
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.quoteauthor {
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.footer {
+    background-color: #1F2937;
+}
+
+
+.button2 {
+    background-color: #3882F6;    
+    border: 1px solid white;
+    border-radius: 5px;
+    color: white;
+}
+
+.signup {
+    background-color: #3882F6;
+    color: white;
+}
