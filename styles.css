@@ -73,12 +73,14 @@ ul {
 .info {
     display: flex;
     align-items: center;
-    flex-direction: column;    
+    flex-direction: column;
+    padding: 100px;    
 }
 .infotitle {
     font-size: 36px;
     font-weight: bolder;
     color: #1F2937;
+    margin-bottom: 50px;
     
 }
 .infoimg {
@@ -90,8 +92,12 @@ ul {
     margin-right: 30px;
     text-align: center;
 }
-.quote {
+.quote {    
     background-color: #E5E7EB;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 150px;
+    padding-right: 150px;  
 }
 
 .quotetext {
@@ -105,19 +111,47 @@ ul {
     font-size: 25px;
 }
 
+.quoteauthor {
+    display: flex;
+    justify-content: end;
+}
+
 .footer {
     background-color: #1F2937;
 }
 
+.call {
+
+    font-weight: bolder;
+    gap: 0px;
+}
 
 .button2 {
     background-color: #3882F6;    
     border: 1px solid white;
     border-radius: 5px;
+    height: 40px;
+    width: 100px;
     color: white;
+    align-self: center;
+
 }
 
 .signup {
     background-color: #3882F6;
     color: white;
+    margin: 80px;
+    padding: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.sign1 {
+    justify-content: center;
+}
+
+.footer {
+    color: white;
+    display: flex;
+    justify-content: center;
 }
